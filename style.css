@@ -49,7 +49,7 @@ a {
   font-style: italic;
 }
 .link-medium:hover {
-  background-image: linear-gradient(to bottom, rgb(149, 157, 229), rgba(149, 157, 229, 1));}
+  background-image: linear-gradient(to bottom, rgb(149, 157, 229), rgba(149, 157, 229, 1));
 }
 
 /* Media queries */
