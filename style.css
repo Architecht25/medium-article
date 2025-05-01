@@ -22,12 +22,14 @@ a {
 
 /* Custom design */
 .banner {
-  background-image: url("/images/meditation.jpg");
-  background-position: 50%;
+  background-image: url("images/numerologyandtech.png");
+  background-position: center 40%; /* ou try: center 20% */
   background-size: cover;
+  background-repeat: no-repeat;
   color: white;
   padding: 120px 0;
 }
+
 .banner h1 {
   font-size: 38px;
 }
@@ -37,10 +39,12 @@ a {
   font-weight: lighter;
   opacity: 0.8;
 }
+
 .container {
   width: 700px;
   margin: 50px auto;
 }
+
 .link-medium {
   background-image: linear-gradient(to bottom, rgba(233, 253, 240, 1), rgba(233, 253, 240, 1));
   color: #636363;
@@ -49,7 +53,7 @@ a {
   font-style: italic;
 }
 .link-medium:hover {
-  background-image: linear-gradient(to bottom, rgb(149, 157, 229), rgba(149, 157, 229, 1));}
+  background-image: linear-gradient(to bottom, rgb(149, 157, 229), rgba(149, 157, 229, 1));
 }
 
 /* Media queries */
